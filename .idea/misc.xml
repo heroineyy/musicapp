@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HUAWEI/Desktop/PongPong-MusicPlayer/app/src/main/res/layout/index_activity.xml" value="0.1398176291793313" />
+        <entry key="..\:/Users/HUAWEI/Desktop/PongPong-MusicPlayer/app/src/main/res/layout/login_activity.xml" value="0.1398176291793313" />
+        <entry key="..\:/Users/HUAWEI/Desktop/PongPong-MusicPlayer/app/src/main/res/layout/nav_header.xml" value="0.2966485507246377" />
+        <entry key="..\:/Users/HUAWEI/Desktop/PongPong-MusicPlayer/app/src/main/res/layout/notification.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/HUAWEI/Desktop/PongPong-MusicPlayer/app/src/main/res/layout/onlinemusic_activity.xml" value="0.1" />
+        <entry key="..\:/Users/HUAWEI/Desktop/PongPong-MusicPlayer/app/src/main/res/layout/playdetails_activity.xml" value="0.1398176291793313" />
+        <entry key="..\:/Users/HUAWEI/Desktop/PongPong-MusicPlayer/app/src/main/res/layout/register_activity.xml" value="0.10326086956521739" />
+        <entry key="..\:/Users/HUAWEI/Desktop/PongPong-MusicPlayer/app/src/main/res/layout/searchable.xml" value="0.10326086956521739" />
+        <entry key="..\:/Users/HUAWEI/Desktop/YueTing-MusicPlayer/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/HUAWEI/Desktop/YueTing-MusicPlayer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/HUAWEI/Desktop/YueTing-MusicPlayer/app/src/main/res/layout/controller_bottom.xml" value="0.1296875" />
+        <entry key="..\:/Users/HUAWEI/Desktop/YueTing-MusicPlayer/app/src/main/res/layout/index_activity.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/HUAWEI/Desktop/YueTing-MusicPlayer/app/src/main/res/layout/item_songs_list.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/HUAWEI/Desktop/YueTing-MusicPlayer/app/src/main/res/layout/login_activity.xml" value="0.22" />
+        <entry key="..\:/Users/HUAWEI/Desktop/YueTing-MusicPlayer/app/src/main/res/layout/nav_header.xml" value="0.1398176291793313" />
+        <entry key="..\:/Users/HUAWEI/Desktop/YueTing-MusicPlayer/app/src/main/res/layout/notification.xml" value="0.22" />
+        <entry key="..\:/Users/HUAWEI/Desktop/YueTing-MusicPlayer/app/src/main/res/layout/onlinemusic_activity.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/HUAWEI/Desktop/YueTing-MusicPlayer/app/src/main/res/layout/playdetails_activity.xml" value="0.1398176291793313" />
+        <entry key="..\:/Users/HUAWEI/Desktop/YueTing-MusicPlayer/app/src/main/res/layout/register_activity.xml" value="0.1398176291793313" />
+        <entry key="..\:/Users/HUAWEI/Desktop/YueTing-MusicPlayer/app/src/main/res/layout/show_song_list.xml" value="0.1398176291793313" />
+        <entry key="..\:/Users/HUAWEI/Desktop/YueTing-MusicPlayer/app/src/main/res/layout/userinfo_activity.xml" value="0.1398176291793313" />
+        <entry key="..\:/Users/HUAWEI/Desktop/YueTing-MusicPlayer/app/src/main/res/menu/nav_menu.xml" value="0.2875" />
+        <entry key="..\:/Users/HUAWEI/Desktop/YueTing-MusicPlayer/app/src/main/res/menu/toolbar.xml" value="0.2875" />
+        <entry key="..\:/Users/HUAWEI/Desktop/YueTing-MusicPlayer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14" />
+        <entry key="..\:/Users/HUAWEI/Desktop/YueTing-MusicPlayer/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14" />
+        <entry key="..\:/git/BuyFood/YueTing-MusicPlayer/app/src/main/res/layout/controller_bottom.xml" value="0.2484375" />
+        <entry key="..\:/git/BuyFood/YueTing-MusicPlayer/app/src/main/res/layout/index_activity.xml" value="0.2484375" />
+        <entry key="..\:/git/BuyFood/YueTing-MusicPlayer/app/src/main/res/layout/item_songs_list.xml" value="0.2484375" />
+        <entry key="..\:/git/BuyFood/YueTing-MusicPlayer/app/src/main/res/layout/login_activity.xml" value="0.2484375" />
+        <entry key="..\:/git/BuyFood/YueTing-MusicPlayer/app/src/main/res/layout/nav_header.xml" value="0.2484375" />
+        <entry key="..\:/git/BuyFood/YueTing-MusicPlayer/app/src/main/res/layout/notification.xml" value="0.2484375" />
+        <entry key="..\:/git/BuyFood/YueTing-MusicPlayer/app/src/main/res/layout/onlinemusic_activity.xml" value="0.2484375" />
+        <entry key="..\:/git/BuyFood/YueTing-MusicPlayer/app/src/main/res/layout/playdetails_activity.xml" value="0.2484375" />
+        <entry key="..\:/git/BuyFood/YueTing-MusicPlayer/app/src/main/res/layout/show_song_list.xml" value="0.2484375" />
+        <entry key="..\:/git/BuyFood/YueTing-MusicPlayer/app/src/main/res/layout/userinfo_activity.xml" value="0.2484375" />
+        <entry key="..\:/git/BuyFood/YueTing-MusicPlayer/app/src/main/res/menu/nav_menu.xml" value="0.2484375" />
+        <entry key="..\:/git/BuyFood/YueTing-MusicPlayer/app/src/main/res/menu/toolbar.xml" value="0.2484375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.liangyi.yueting">
+    <!-- 对SD卡中的文件进行操作的权限 -->
+    <application
+        android:name="org.litepal.LitePalApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/app_icon"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@drawable/bottom"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PongPong">
+        <activity android:name=".OnlineMusicActivity"></activity>
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity
+            android:name=".IndexActivity"
+            android:label="PongPong">
+            <!-- intent-filter launcher 在应用程序启动时首先被显示 -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".UserInfoActivity" />
+        <activity
+            android:name=".PlayDetailActivity"
+            android:launchMode="singleTop" />
+        <!-- 注册服务 -->
+        <service
+            android:name=".service.MusicService"
+            android:enabled="true"
+            android:exported="true" />
+
+
+    </application>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+</manifest>
